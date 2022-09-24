@@ -1,4 +1,3 @@
-#Git in VS CODE
+# Git in VS CODE
 
-- Second Commit
-- Another line from server
+-Second Commit
